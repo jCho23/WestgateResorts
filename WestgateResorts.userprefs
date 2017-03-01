@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2821954B-95BA-4080-A1CA-53FDAEE81B71}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.WestgateResorts PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WestgateResorts/AppInitializer.cs">
+    <Files>
+      <File FileName="WestgateResorts/AppInitializer.cs" Line="33" Column="4" />
+      <File FileName="WestgateResorts/Tests.cs" Line="42" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="WestgateResorts" expanded="True">
+            <Node name="WestgateResorts" expanded="True">
+              <Node name="WestgateResorts" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="Repl" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
